@@ -1,3 +1,7 @@
+---
+description: tips and articles for AWS security certification specialisation
+---
+
 # Initial page
 
 \`\`[`https://coggle.it/diagram/XCx0VU8yTIKcn9xF/t/aws-certified-security-specialty`](https://coggle.it/diagram/XCx0VU8yTIKcn9xF/t/aws-certified-security-specialty)\`\`
