@@ -8,6 +8,7 @@ description: tips and articles for AWS security certification specialisation
 
 {% embed url="https://coggle.it/diagram/XCx0VU8yTIKcn9xF/t/aws-certified-security-specialty" %}
 
+[I'm an inline-style link](https://cloudsecwiki.com/aws\_cloud.html)
 {% embed url="https://cloudsecwiki.com/aws\_cloud.html" %}
 
 {% embed url="https://medium.com/@rzepsky/playing-with-cloudgoat-part-1-hacking-aws-ec2-service-for-privilege-escalation-4c42cc83f9da" %}
